@@ -17,6 +17,7 @@ public class Aula05_Ex02 {
 		
 		JOptionPane.showMessageDialog(null,"Área do Triângulo: "+ area);
 		
+		System.out.println(area);
 	}
 
 }
