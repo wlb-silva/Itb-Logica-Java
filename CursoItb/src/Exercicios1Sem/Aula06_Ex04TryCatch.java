@@ -18,6 +18,5 @@ public class Aula06_Ex04TryCatch {
 	}catch (Exception e) {
 		JOptionPane.showMessageDialog(null, "Informe apenas números!");
 	}
-
 }
 }
